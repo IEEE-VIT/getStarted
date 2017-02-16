@@ -1,0 +1,3 @@
+if you're running ubuntu xenial or later, git-all fails to install properly due to runit causing trouble with upstart, there's a workaround on the page below.
+
+https://bugs.launchpad.net/ubuntu/+source/runit/+bug/1448164
